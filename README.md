@@ -10,6 +10,7 @@ Analysis for modelling responses to positional and force inputs within viscoelas
 The analysis culminated with the fitting of the **QuasiLinear viscoelasticity model**:
 ![](media/viscoelastic/modello_QLV.png) 
 In order to find the best coefficient that reppresented the model behaviour. 
+In order to get started in this part of the code, lodad the _data_viscoelastici.mat_ in your workspace and open the _elaborazione-dati-visco.m_ file.
 
 ## Anthropometry and Biomechanics of Movement 
 The focus of this module is on anthropometry and the biomechanics of human movement.
