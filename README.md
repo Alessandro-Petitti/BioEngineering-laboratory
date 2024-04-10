@@ -7,9 +7,9 @@ Here are collected all the resourced that our group produced.
 ## Viscoelastic Models of Biological Tissues 
 This module delves into the analysis and modeling of viscoelastic properties exhibited by biological tissues.
 Analysis for modelling responses to positional and force inputs within viscoelastic bodies. 
-The analysis culminated with the fitting of the QuasiLinear Viscoelasticity model:
+The analysis culminated with the fitting of the **QuasiLinear viscoelasticity model**:
 ![](media/viscoelastic/modello_QLV.png) 
-In order to find the best coefficient that reppresented the model behaviour.
+In order to find the best coefficient that reppresented the model behaviour. 
 
 ## Anthropometry and Biomechanics of Movement 
 The focus of this module is on anthropometry and the biomechanics of human movement.
